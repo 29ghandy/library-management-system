@@ -6,13 +6,6 @@
       "id": 1,
       "publicationDate": "2023-10-05",
       "title": "Sample Book Title"
-    },
-    {
-      "id": 1,
-      "title": "Sample Book Title",
-      "authorId": 13,
-      "genre": "Fiction",
-      "publicationDate": "2023-10-05"
     }
   ]
 }
